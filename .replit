@@ -1,0 +1,1 @@
+run = "javac -cp KarelJRobot.jar: BetterTurner.java && javac -cp KarelJRobot.jar: MileWalker.java && javac -cp KarelJRobot.jar: Runner.java && java -cp KarelJRobot.jar: Runner"
